@@ -1,0 +1,22 @@
+{
+  "name": "literate-octo-happiness",
+  "version": "1.0.0",
+  "description": "1. Create function to create data, which require 1 arguments that is object 2. Just seperate your own function in switch case; 3. Read function, only require 1 argument in the process.argv, and it's the id 4. Update function, require 2 argument, id and object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnurhidayat/literate-octo-happiness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnurhidayat/literate-octo-happiness/issues"
+  },
+  "homepage": "https://github.com/fnurhidayat/literate-octo-happiness#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
